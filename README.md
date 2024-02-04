@@ -13,11 +13,7 @@
 1. node 설치
    https://nodejs.org/en
 2. yarn or npm install 명령어 입력
-3. yarn dev or npm run dev 명령어로 프로젝트 실행
-
-## Getting Started
-
-First, run the development server:
+3. 프로젝트 실행 명령어
 
 ```bash
 npm run dev
